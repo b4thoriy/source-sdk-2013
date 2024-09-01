@@ -24,7 +24,6 @@ $Project "Server (KAON)"
 	{
 		$Folder	"KAON DLL"
 		{
-			$File	"kaon\weapon_ar1.cpp"
 		}
 		
 		$File	"ai_eventresponse.cpp"
